@@ -52,6 +52,36 @@ img {
   color: white;
 }
 
+.jumbotron-beer {
+  background-image: url("../images/jumbotron-beer.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  text-align: center;
+  text-shadow: 1px 1px 2px black;
+  color: white;
+}
+
+.jumbotron-duffel {
+  background-image: url("../images/jumbotron-duffel.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  text-align: center;
+  text-shadow: 1px 1px 2px black;
+  color: white;
+}
+
+.jumbotron-flowers {
+  background-image: url("../images/jumbotron-flowers.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  text-align: center;
+  text-shadow: 1px 1px 2px black;
+  color: white;
+}
+
 .banner {
     font-family: 'Monoton', cursive;
     font-size: 7.1rem;
